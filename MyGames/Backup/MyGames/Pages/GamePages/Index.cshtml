@@ -1,0 +1,47 @@
+﻿@page
+@model IndexModel
+@{
+}
+<h2>My Connections </h2>
+<div>
+    <a asp-page="Create"> Add new Connection</a>
+</div>
+
+<div>
+
+    @if (Model.MyGames.Count() > 0)
+    {
+        <form>
+            <div>
+                <table>
+                    <tr>
+                        }
+                        <th>
+                            @foreach (var item in Model.MyGames)
+                            {
+                            <td>
+                                @Html.DisplayFor(m => item.GameName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.GameType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.GameYear)
+                            </td>
+                           
+
+                                 }
+                            <th>
+
+                            </th>
+                        </tr>
+                </table>
+            </div>
+        </form>
+
+    }
+    else
+    {
+        <p>No connections currently</p>
+    }
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\bin\Debug\netcoreapp2.0\MyGames.deps.json
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\bin\Debug\netcoreapp2.0\MyGames.runtimeconfig.json
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\bin\Debug\netcoreapp2.0\MyGames.runtimeconfig.dev.json
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\bin\Debug\netcoreapp2.0\MyGames.dll
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\bin\Debug\netcoreapp2.0\MyGames.pdb
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.AssemblyInfo.cs
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.dll
+C:\Users\Jon Bailey\Source\Repos\MyGames\MyGames\obj\Debug\netcoreapp2.0\MyGames.pdb

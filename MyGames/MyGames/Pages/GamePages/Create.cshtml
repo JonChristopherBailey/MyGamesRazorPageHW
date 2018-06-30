@@ -1,0 +1,29 @@
+﻿@page
+@model CreateModel
+@{
+}
+@page
+@model CreateModel
+@{
+}
+
+<div>
+    <h2>Add Video</h2>
+</div>
+
+<div>
+    <form method="post">
+        <input asp-for="Game.Name" type="text" placeholder="Video Tittle" />
+        <span asp-validation-for="Game.Type"></span>
+
+        <input asp-for="Game.Category" type="text" placeholder="Category" />
+        <span asp-validation-for="Game.Category"></span>
+
+        <input asp-for="Game.Year" type="text" placeholder="Description" />
+        <span asp-validation-for="Game.Year"></span>
+
+        <input type="submit" value="Add Video" />
+        <a asp-page="Index">Back to Video List</a>
+
+    </form>
+</div>
